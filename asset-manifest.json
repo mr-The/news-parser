@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mr-The/news-parser/static/css/main.36ce51b0.chunk.css",
+    "main.js": "/mr-The/news-parser/static/js/main.e3b3fa6d.chunk.js",
+    "main.js.map": "/mr-The/news-parser/static/js/main.e3b3fa6d.chunk.js.map",
+    "runtime-main.js": "/mr-The/news-parser/static/js/runtime-main.fb96f9dc.js",
+    "runtime-main.js.map": "/mr-The/news-parser/static/js/runtime-main.fb96f9dc.js.map",
+    "static/css/2.e8c541e9.chunk.css": "/mr-The/news-parser/static/css/2.e8c541e9.chunk.css",
+    "static/js/2.05b5cbef.chunk.js": "/mr-The/news-parser/static/js/2.05b5cbef.chunk.js",
+    "static/js/2.05b5cbef.chunk.js.map": "/mr-The/news-parser/static/js/2.05b5cbef.chunk.js.map",
+    "index.html": "/mr-The/news-parser/index.html",
+    "static/css/2.e8c541e9.chunk.css.map": "/mr-The/news-parser/static/css/2.e8c541e9.chunk.css.map",
+    "static/css/main.36ce51b0.chunk.css.map": "/mr-The/news-parser/static/css/main.36ce51b0.chunk.css.map",
+    "static/js/2.05b5cbef.chunk.js.LICENSE.txt": "/mr-The/news-parser/static/js/2.05b5cbef.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/mr-The/news-parser/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb96f9dc.js",
+    "static/css/2.e8c541e9.chunk.css",
+    "static/js/2.05b5cbef.chunk.js",
+    "static/css/main.36ce51b0.chunk.css",
+    "static/js/main.e3b3fa6d.chunk.js"
+  ]
+}
